@@ -19,6 +19,7 @@ public class GITExplained {
  jo
  ran
  jo wants to write some code here
+ im intentionally making conflict
  git checkout <branchname>  ---> git will shift or change the branch name
  git branch  --> it will list down the branches which is available locally
  git branch -d <branchname> --> to delete the branch locally
