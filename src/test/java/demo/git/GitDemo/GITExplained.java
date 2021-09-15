@@ -28,5 +28,7 @@ public class GITExplained {
  
  PR ---> pull request --> some body pull there code to default branch (master)
  
+ //add some junky comments
+ 
  * */
 }
