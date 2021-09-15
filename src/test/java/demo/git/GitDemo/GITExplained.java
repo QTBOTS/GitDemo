@@ -26,6 +26,7 @@ public class GITExplained {
  
  Best practice :--> as soon as you create an branch good to push it immediatly
  
+ PR ---> pull request --> some body pull there code to default branch (master)
  
  * */
 }
